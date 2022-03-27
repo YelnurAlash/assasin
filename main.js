@@ -1,0 +1,1 @@
+document.querySelector('.show_video').playbackRate = 2;
